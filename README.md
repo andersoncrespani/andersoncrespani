@@ -1,16 +1,16 @@
-<h1 align="center">Olá! Me chamo Anderson Crespani 🚀</h1>
+<h1 align="center">Olá! Me chamo Anderson Crespani 🌐</h1>
 
 <p align="center">
-  <b>Desenvolvedor de Software</b>
+  <b>Desenvolvedor Web | Front-End & Interfaces Modernas</b>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 💻 Desenvolvedor focado em criar soluções eficientes e de alto impacto.
-- 🎓 Constantemente estudando e aprimorando minhas habilidades em desenvolvimento web e banco de dados.
-- 🎯 Buscando sempre aplicar as melhores práticas de código, arquitetura e versionamento.
+- 💻 Especializado em **desenvolvimento web**, criando sites modernos, responsivos e otimizados para uma excelente experiência do usuário.
+- 🎨 Foco em transformar ideias e layouts em páginas dinâmicas e funcionais.
+- 🎯 Buscando sempre aplicar boas práticas de código, acessibilidade e SEO na construção de aplicações web.
 
 ---
 
@@ -21,16 +21,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="45" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" width="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" width="45" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" width="45" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="45" alt="GitHub" />
 </div>
 
 ---
 
-### 📚 Atualmente estudando
+### 💻 Foco em Desenvolvimento Web
 
-- ⚛️ **React** (Componentização, Hooks e Consumo de APIs)
-- ☕ **Java** (Programação Orientada a Objetos e estruturas sólidas)
-- 🗄️ **SQL** (Modelagem de dados e consultas avançadas)
-- 🔀 **Git & GitHub** (Fluxos de trabalho e versionamento de código)
+- 📱 **Design Responsivo**: Sites adaptados para celulares, tablets e desktops.
+- ⚡ **Aplicações Dinâmicas**: Criação de interfaces com React e JavaScript.
+- 🗄️ **Banco de Dados**: Modelagem e consultas utilizando PostgreSQL.
+- 🔀 **Versionamento**: Controle de código e colaboração via Git e GitHub.
