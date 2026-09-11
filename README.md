@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Me chamo Anderson Crespani 🌐</h1>
+<h1 align="center">Olá! Me chamo Anderson Crespani</h1>
 
 <p align="center">
   <b>Desenvolvedor Web | Front-End & Interfaces Modernas</b>
