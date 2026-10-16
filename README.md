@@ -42,6 +42,12 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andersoncrespani/andersoncrespani/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
 <!-- Rodapé Neon -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,0,1&height=8&section=footer" width="100%" />
