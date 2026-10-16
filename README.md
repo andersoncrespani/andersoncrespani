@@ -1,10 +1,10 @@
-
+<!-- Banner Neon Cyberpunk Animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,24,30&height=200&section=header&text=Anderson%20Crespani&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
 
 <div align="center">
-  
+  <!-- Typing SVG Atualizado Sem "Especialista" -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=00F2FE&center=true&vcenter=true&width=600&lines=%E2%9A%A1+Web+Developer+%7C+Front-End+Specialist;%F0%9F%92%A1+Building+Modern+%26+Interactive+UIs;%F0%9F%90%8D+Python+%7C+React+%7C+JavaScript+%7C+Java;%F0%9F%97%84%EF%B8%8F+PostgreSQL+%7C+Git+%7C+GitHub" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=00F2FE&center=true&vcenter=true&width=600&lines=%E2%9A%A1+Estudante+de+Desenvolvimento+Web;%F0%9F%92%A1+Aprendendo+Front-End+%26+Back-End;%F0%9F%90%8D+Python+%7C+React+%7C+JavaScript+%7C+Java;%F0%9F%97%84%EF%B8%8F+PostgreSQL+%7C+Git+%7C+GitHub" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,9 +12,9 @@
 
 ### ⚡ Sobre Mim
 
-- 💻 Desenvolvedor Web focado na criação de **interfaces modernas, dinâmicas e de alto desempenho**.
-- 🚀 Transformando ideias complexas em experiências visuais fluídas e intuitivas.
-- 🎯 Comprometido com arquitetura limpa, padronização de código e constante evolução tecnológica.
+- 💻 Estudante de **desenvolvimento web**, focado em aprender e construir interfaces modernas, dinâmicas e responsivas.
+- 🚀 Transformando conceitos e ideias em código, buscando sempre entender a lógica por trás de cada aplicação.
+- 🎯 Focado em aprender boas práticas, versionamento e estruturação de software no dia a dia.
 
 ---
 
@@ -26,11 +26,11 @@
 
 ---
 
-### 💻 Competências & Foco
+### 💻 O que venho praticando
 
-- 📱 **Front-End Interativo**: Criação de aplicações com React e JavaScript estruturadas em componentes limpos e reutilizáveis.
-- ⚙️ **Back-End & Banco de Dados**: Construção de APIs e regras de negócio robustas com Python e Java, com persistência em PostgreSQL.
-- 🔀 **Controle de Versão**: Fluxo de trabalho profissional usando Git/GitHub para manutenção e rastreabilidade de código.
+- 📱 **Front-End**: Construção de interfaces com React, JavaScript e HTML5.
+- ⚙️ **Back-End & Banco de Dados**: Lógica de servidor com Python e Java, além de modelagem e consultas em PostgreSQL.
+- 🔀 **Controle de Versão**: Organização e versionamento de projetos com Git e GitHub.
 
 ---
 
@@ -42,12 +42,7 @@
 
 ---
 
-<div align="center">
-  <br />
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</div>
-
-
+<!-- Rodapé Neon -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,0,1&height=8&section=footer" width="100%" />
 </div>
