@@ -10,37 +10,26 @@
 
 <br />
 
-<!-- Seção Principal Dividida em Duas Colunas (Cards Animados) -->
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Sobre Mim</h3>
-      <p>💻 Desenvolvedor Web focado na criação de <b>interfaces modernas, dinâmicas e de alto desempenho</b>.</p>
-      <p>🚀 Transformando ideias complexas em experiências visuais fluídas e intuitivas.</p>
-      <p>🎯 Comprometido com arquitetura limpa, padronização de código e constante evolução tecnológica.</p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <!-- Card Dinâmico com Status do GitHub e Animação Glow -->
-      <img src="https://github-readme-stats.vercel.app/api?username=andersoncrespani&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117" alt="Anderson's GitHub Stats" width="95%" />
-    </td>
-  </tr>
-</table>
+### ⚡ Sobre Mim
+
+- 💻 Desenvolvedor Web focado na criação de **interfaces modernas, dinâmicas e de alto desempenho**.
+- 🚀 Transformando ideias complexas em experiências visuais fluídas e intuitivas.
+- 🎯 Comprometido com arquitetura limpa, padronização de código e constante evolução tecnológica.
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
 <div align="left">
-  <!-- Ícones com visual Dark/Neon de alta definição -->
   <img src="https://skillicons.dev/icons?i=html,js,react,python,java,postgres,git,github,vscode&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
 
-### 📊 Lógicas & Habilidades
+### 💻 Competências & Foco
 
 - 📱 **Front-End Interativo**: Criação de aplicações com React e JavaScript estruturadas em componentes limpos e reutilizáveis.
-- ⚙️ **Back-End & Banco de Dados**: Construção de APIs e regras de negócio robustas com Python e Java, com persisência em PostgreSQL.
+- ⚙️ **Back-End & Banco de Dados**: Construção de APIs e regras de negócio robustas com Python e Java, com persistência em PostgreSQL.
 - 🔀 **Controle de Versão**: Fluxo de trabalho profissional usando Git/GitHub para manutenção e rastreabilidade de código.
 
 ---
@@ -53,7 +42,13 @@
 
 ---
 
-<!-- Animação Rodapé estilo Snake/Matrix do GitHub -->
+<!-- Animação do Snake (Jogo da Cobrinha) -->
+<div align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<!-- Rodapé Neon -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,0,1&height=8&section=footer" width="100%" />
 </div>
